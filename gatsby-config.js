@@ -82,5 +82,12 @@ module.exports = {
         respectDNT: true,
       },
     },
+    {
+      resolve: `gatsby-plugin-parsely-analytics`,
+      options: {
+        apikey: `mikesukmanowsky.com`,
+        enableInDevelopment: true,
+      },
+    },
   ],
 }
