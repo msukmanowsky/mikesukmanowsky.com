@@ -109,6 +109,6 @@ thing it seems we can confidently say life should do.
 
 If you'd like to read more on this subject, I recommend giving these a look:
 
-- [Entropy and Life](<http://www.physics.mcgill.ca/~hilke/181/projects/EntropyandLife%20(final).pdf>) (paper, )
+- [Entropy and Life](<http://www.physics.mcgill.ca/~hilke/181/projects/EntropyandLife%20(final).pdf>) (paper, Munir H, Ahn P, Nagaria M, Wu R, Kim​​H.)
 - [What is Life](http://www.whatislife.ie/downloads/What-is-Life.pdf) (book, Erwin Shrodinger)
 - [How Does Life Come From Randomness?](https://www.youtube.com/watch?v=k9QYtbjzjAw) (video, David Kaplan)
