@@ -1,5 +1,5 @@
 ---
-title: How-to Charge for Open Source Support
+title: A Quick and Dirty Way to Charge for Open Source Support
 description: How you can easily add an option for users to buy an hour or two of your time to help fund your open source project
 date: "2019-11-26T00:00:00Z"
 ---
