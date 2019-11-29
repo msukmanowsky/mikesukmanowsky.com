@@ -9,7 +9,7 @@ properly do file or image uploads with Express and Firebase Cloud Functions.
 
 If after reading this you're still stuck, grab an hour of my time and we'll figure it out together:
 
-[![book a meeting](https://storage.googleapis.com/cb8c29pbm.appspot.com/book-a-meeting.svg)](https://calendly.com/mike-sukmanowsky/open-source-consulting-chat).
+[![book a meeting](https://storage.googleapis.com/cb8c29pbm.appspot.com/book-a-meeting.svg)](https://calendly.com/mike-sukmanowsky/open-source-consulting-chat)
 
 TL;DR do _not_ try and use [Multer](https://www.npmjs.com/package/multer) for
 this. As it turns out, Cloud Functions introduced a
@@ -37,4 +37,4 @@ in `form-data` and `req.files` is an array of uploaded files.
 
 Hope this helps but if you find that you're still stuck by anything above, you can grab an hour of my time and we'll figure it out together:
 
-[![book a meeting](https://storage.googleapis.com/cb8c29pbm.appspot.com/book-a-meeting.svg)](https://calendly.com/mike-sukmanowsky/open-source-consulting-chat).
+[![book a meeting](https://storage.googleapis.com/cb8c29pbm.appspot.com/book-a-meeting.svg)](https://calendly.com/mike-sukmanowsky/open-source-consulting-chat)
