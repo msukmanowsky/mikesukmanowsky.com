@@ -7,6 +7,10 @@ date: "2019-03-29T17:31:12.569Z"
 I recently spent longer than I'd care to admit trying to figure out how to
 properly do file or image uploads with Express and Firebase Cloud Functions.
 
+If after reading this you're still stuck, grab an hour of my time and we'll figure it out together:
+
+[![book a meeting](https://storage.googleapis.com/cb8c29pbm.appspot.com/book-a-meeting.svg)](https://calendly.com/mike-sukmanowsky/open-source-consulting-chat).
+
 TL;DR do _not_ try and use [Multer](https://www.npmjs.com/package/multer) for
 this. As it turns out, Cloud Functions introduced a
 [breaking middleware](https://stackoverflow.com/questions/47242340/how-to-perform-an-http-file-upload-using-express-on-cloud-functions-for-firebase)
@@ -31,4 +35,6 @@ in `form-data` and `req.files` is an array of uploaded files.
 
 `gist:msukmanowsky/024742f44aacd425f14d7254595684c8`
 
-Hope this helps someone!
+Hope this helps but if you find that you're still stuck by anything above, you can grab an hour of my time and we'll figure it out together:
+
+[![book a meeting](https://storage.googleapis.com/cb8c29pbm.appspot.com/book-a-meeting.svg)](https://calendly.com/mike-sukmanowsky/open-source-consulting-chat).
